@@ -1,7 +1,7 @@
 # paracode
 # 🧠 Paracode Prime: The Evolutionary Mobile Architect
 
-![Paracode Logo](https://i.imgur.com/egBCRzO.png)
+![Paracode Logo](https://github.com/schahruz2025/paracode/raw/main/3b1c4b40-75f5-47e5-9c75-511f022a31f5.png)
 
 > **Build. Debug. Scale. Like an Architect.**  
 > The most powerful AI developer for Android & Flutter, powered by GPT-4 Turbo.
@@ -53,4 +53,3 @@ Paracode is a custom-trained GPT assistant that helps developers build, debug, a
 ---
 
 ## 📁 Example Project Structure
-
